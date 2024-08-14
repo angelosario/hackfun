@@ -1,0 +1,26 @@
+@font-face {
+	font-family: "Dec";
+	src: url('decterm.ttf')
+}
+body {
+	font-family: "Dec";
+	font-stretch: semi-expanded;
+	background-color: black;
+	color: green;
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-top: 2%;
+	
+}
+img {
+
+	width: 100%;
+	height: auto;
+}
+
+
+
+
+
+
+
