@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "Dec";
-	src: url('decterm.ttf')
+	src: url('decterm.ttf');
 }
 body {
 	font-family: "Dec";
@@ -31,10 +31,4 @@ img {
 	background-repeat: no-repeat;;
 	height: 10%;
 }	
-
-
-
-
-
-
 
