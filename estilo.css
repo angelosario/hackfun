@@ -3,8 +3,12 @@
 	src: url('decterm.ttf');
 }
 body {
+<<<<<<< HEAD
 	font-family: "Dec";
 	font-stretch: semi-expanded;
+=======
+	font-family: Times New Roman;
+>>>>>>> 188678b (v1)
 	background-color: black;
 	color: green;
 	padding-left: 15%;
@@ -12,6 +16,7 @@ body {
 	padding-top: 2%;
 	
 }
+<<<<<<< HEAD
 img {
 
 	width: 100%;
@@ -31,4 +36,12 @@ img {
 	background-repeat: no-repeat;;
 	height: 10%;
 }	
+=======
+
+
+
+
+
+
+>>>>>>> 188678b (v1)
 
