@@ -49,3 +49,8 @@ header {
 	border: 0px solid red;
 	padding: 0;
 }
+
+ul {
+	list-style-type: disc;
+
+}
